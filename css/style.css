@@ -1,0 +1,16 @@
+.header {
+  color: red;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.main {
+  color: green;
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.footer {
+  color: blue;
+  font-size: 2rem;
+}

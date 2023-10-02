@@ -1,0 +1,1 @@
+<div class="footer">I AM FOOTER</div>
